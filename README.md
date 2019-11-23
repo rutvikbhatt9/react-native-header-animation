@@ -16,10 +16,6 @@ git clone https://github.com/rutvikbhatt9/react-native-header-animation.git
 ```
 npm install
 ```
-* Link the libraries
-```
-react-native link
-```
 * Run the project
 ```
 react-native run-android
