@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "songName": "So Much Trouble In The World",
+    "albumName": "Survival",
+    "artistImage": "https://i.ytimg.com/vi/gAFbYTvXXyY/hqdefault.jpg",
+    "songLink": "http://spoti.fi/1czPgmI"
+  },
+  {
+    "id": 2,
+    "songName": "Could You Be Loved",
+    "albumName": "Uprising",
+    "artistImage": "https://images-na.ssl-images-amazon.com/images/I/81jpjjJsXGL._SL1500_.jpg",
+    "songLink": "http://spoti.fi/1czPfz9"
+  },
+  {
+    "id": 3,
+    "songName": "Redemption Song",
+    "albumName": "Uprising",
+    "artistImage": "https://i.ytimg.com/vi/QrY9eHkXTa4/hqdefault.jpg",
+    "songLink": "http://spoti.fi/1czP9HP"
+  },
+  {
+    "id": 4,
+    "songName": "Jamming",
+    "albumName": "Kaya",
+    "artistImage": "https://i.pinimg.com/originals/48/f1/9e/48f19e9d7b52ed4226951a4253096660.jpg",
+    "songLink": "http://spoti.fi/1czPfz2"
+  },
+  {
+    "id": 5,
+    "songName": "Get Up, Stand Up",
+    "albumName": "Burnin",
+    "artistImage": "https://i1.sndcdn.com/artworks-000077833504-45ox6i-t500x500.jpg",
+    "songLink": "http://spoti.fi/1czPdax"
+  },
+  {
+    "id": 6,
+    "songName": "Stir It Up",
+    "albumName": "Catch a Fire",
+    "artistImage": "https://schnncdnems02.cdnsrv.jio.com/c.saavncdn.com/753/Bob-Marley-Stir-It-Up-English-2012-500x500.jpg",
+    "songLink": "http://spoti.fi/1czPg63"
+  },
+  {
+    "id": 7,
+    "songName": "Exodus",
+    "albumName": "Exodus, Kaya",
+    "artistImage": "https://cdn3.volusion.com/rkfzh.yaufw/v/vspfiles/photos/B00098690.2-2.jpg",
+    "songLink": "http://spoti.fi/1czPfPB"
+  },
+  {
+    "id": 8,
+    "songName": "Sun Is Shining",
+    "albumName": "Soul Revolution, The Wailing Wailers, Soul Revolution Part II",
+    "artistImage": "https://static.qobuz.com/images/covers/7a/kh/w049ofpodkh7a_600.jpg",
+    "songLink": "http://spoti.fi/1czPg67"
+  },
+  {
+    "id": 9,
+    "songName": "Positive Vibration",
+    "albumName": "Rastaman Vibration",
+    "artistImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/BobMarley-RastamanVibration.jpg/512px-BobMarley-RastamanVibration.jpg",
+    "songLink": "http://spoti.fi/1czPha1"
+  },
+  {
+    "id": 10,
+    "songName": "Easy Skanking",
+    "albumName": " Kaya",
+    "artistImage": "https://images-na.ssl-images-amazon.com/images/I/41ztpcWQOpL.jpg",
+    "songLink": "http://spoti.fi/1czPgTC"
+  },
+  {
+    "id": 11,
+    "songName": "No Woman, No Cry",
+    "albumName": "Natty Dread",
+    "artistImage": "https://i1.sndcdn.com/artworks-000585706205-tcslxp-t500x500.jpg",
+    "songLink": "http://spoti.fi/1czP9HA"
+  },
+  {
+    "id": 12,
+    "songName": "Africa Unite",
+    "albumName": "Survival",
+    "artistImage": "https://i.pinimg.com/originals/10/42/27/10422709ecd0cb1134f4e3f53494d103.jpg",
+    "songLink": "http://spoti.fi/1czPha5"
+  }
+]
