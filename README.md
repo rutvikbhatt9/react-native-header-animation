@@ -33,7 +33,7 @@ react-native run-ios
 
 ## Authors
 
-* **Rutvik Bhatt** - [Medium](https://medium.com/@rutvikbhatt9), [Twitter](https://twitter.com/rutvik_bhatt)
+* **Rutvik Bhatt** - [Cyburst.io](https://cyburst.io/about-author/), [Medium](https://medium.com/@rutvikbhatt9), [Twitter](https://twitter.com/rutvik_bhatt)
 
 
 ## License
