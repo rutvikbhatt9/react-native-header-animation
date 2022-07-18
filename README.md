@@ -1,6 +1,6 @@
 # React-Native Animated Header
 
-Article explaining the code: https://hackernoon.com/react-native-animated-header-using-animated-and-scrollview-9749255c149a
+Article explaining the code: https://cyburst.io/react-native-animated-header-with-scrollview/
 
 ![HeaderAnimation](screenshot/screenshot.gif)
 
